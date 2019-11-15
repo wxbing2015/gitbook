@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [身份验证](shen-fen-yan-zheng.md)
 
 ## 引言
 
@@ -18,5 +16,6 @@
 
 ## 服务接口
 
+* [身份验证](shen-fen-yan-zheng.md)
 * [服务列表](fu-wu-lie-biao.md)
 
