@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* [HTTP通讯协议](httptong-xun-xie-yi.md)
+* [JSON报文格式](jsonbao-wen-ge-shi.md)
 
 ## 引言
 
@@ -10,4 +10,6 @@
 * [编写目的](bian-xie-mu-de.md)
 
 ## 通讯协议
+
+* [HTTP通讯协议](httptong-xun-xie-yi.md)
 
