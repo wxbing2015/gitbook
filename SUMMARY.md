@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* [服务列表](fu-wu-lie-biao.md)
+* [身份验证](shen-fen-yan-zheng.md)
 
 ## 引言
 
@@ -17,4 +17,6 @@
 * [安全控制](an-quan-kong-zhi.md)
 
 ## 服务接口
+
+* [服务列表](fu-wu-lie-biao.md)
 
